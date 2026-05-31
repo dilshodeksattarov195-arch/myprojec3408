@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterptringify",
+        "uuid": 18467952,
+        "checksum": "sbhiv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
